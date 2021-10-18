@@ -1,1 +1,3 @@
-# Codecademy
+# Codecademy Off Platform Projects
+
+These projects vary in many different styles (assuming I add everything)...
